@@ -7,3 +7,4 @@ jú, Það er ég svo sannarlega búinn að gera.
 Nei ekki séns, Þú ert ekki búinn að skila inn síðustu þrem verkefnunum.
 Já ok þú náðir mér þarna, ég gefst upp og er glaður með launin mín.
 Það er þá bara geggjað og við erum bara báðir glaðir, heyrumst síðar.
+já, við hérna heyrumst síðar.
