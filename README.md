@@ -9,7 +9,12 @@ Já ok þú náðir mér þarna, ég gefst upp og er glaður með launin mín.
 Það er þá bara geggjað og við erum bara báðir glaðir, heyrumst síðar.
 já, við hérna heyrumst síðar.
 
-
+markdown er notað sem einfalt skriforrit þar sem það er auðvelt að er að setja inn texta og allar breytingar sem koma með honum eins og að setja inn lista 
+* 1 
+* 2 
+* 3 setja inn 
+## title 
+og allt annað sem maður þarf til að skrifa texta
 
 [I'm an inline-style link](https://www.google.com)
 
