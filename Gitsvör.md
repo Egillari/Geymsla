@@ -15,7 +15,7 @@ Verkefni5
 ### 4.
 * version control er kerfi sem geymir allar breytingar á files 
 ### 5.
-* Ef þú notar git er miklu auðveldara að fyrir þig til að finna gömul gögn. Mikið auðveldara að vinna í hóp af fólki. miklu meira stability það er að segja nánast engar líkur að þú tínir skjölum eða að eithvað fara úrskeyðis
+* Ef þú notar git er miklu auðveldara að fyrir þig til að finna gömul gögn. Mikið auðveldara að vinna í hóp af fólki. miklu meira stability það er að segja nánast engar líkur að þú tínir skjölum eða að eithvað fara úrskeyðis. Git er frekar lit.
 ### 6.
 * ekki alltaf, en ágætlega reglulega eins og ef þú ferð í burtu frá tölvunni eða ert búinn í dag þá er gott að gera commit
 ### 7.
